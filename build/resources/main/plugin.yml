@@ -1,0 +1,7 @@
+name: JoinMessage
+version: '1.0'
+main: com.Ccs.JoinMessage
+commands:
+  JoinMessage:
+    description: "重载插件指令"
+    permission: op
